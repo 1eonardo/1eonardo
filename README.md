@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 align="center">Hi there, i am <a href="https://www.linkedin.com/in/ing-leonardo-dev/">ing.Leonardo Raymundo</a>✌️</h1>
+    <h2 align="center">Hi there, i am <a href="https://www.linkedin.com/in/ing-leonardo-dev/">ing.Leonardo Raymundo</a>✌️</h2>
 </div>
 <img src="https://github.com/1eonardo/1eonardo/blob/main/BannerDev.png" alt="">
 
@@ -24,7 +24,7 @@
 
 <!-- Skills -->
 <div align="center">
-    <h1>Skills</h1>
+    <h2>Skills</h2>
 </div>
 <table border="0" align="center">
   <tr>
