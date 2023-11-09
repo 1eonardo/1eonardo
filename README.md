@@ -29,20 +29,18 @@
 <table border="0" align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com/1eonardo/1eonardo/blob/main/Skill1.png" width="400" height="300" />
+      <img src="https://github.com/1eonardo/1eonardo/blob/main/Skill1.png" width="300" height="300" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github.com/1eonardo/1eonardo/blob/main/Skill2.png" width="400" height="300" />
+      <img src="https://github.com/1eonardo/1eonardo/blob/main/Skill2.png" width="300" height="250" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="left">
-      <img src="https://github.com/1eonardo/1eonardo/blob/main/Skill2.png" width="400" height="300" />
+      <img src="https://github.com/1eonardo/1eonardo/blob/main/Skill2.png" width="300" height="250" />
     </td>
   </tr>
 </table>
-
-
    
 <div align="center">
     <picture align="center">
