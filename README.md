@@ -14,7 +14,36 @@
   <img src="https://img.shields.io/badge/From-Nicaragua-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
 </div>
+<div>
+    <img src="https://img.shields.io/badge/Hobby-♟%20Chess-yellow" />
+    <img src="https://img.shields.io/badge/Hobby-🏀%20Basketball-yellow" />
+    <img src="https://img.shields.io/badge/Hobby-🏓%20Ping%20Pong-yellow" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>  
 
+<!-- Skills -->
+<div align="center">
+    <h1>Skills</h1>
+</div>
+<table border="0" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/1eonardo/1eonardo/blob/main/Skill1.png" width="400" height="300" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/1eonardo/1eonardo/blob/main/Skill2.png" width="400" height="300" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="left">
+      <img src="https://github.com/1eonardo/1eonardo/blob/main/Skill2.png" width="400" height="300" />
+    </td>
+  </tr>
+</table>
+
+
+   
 <div align="center">
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
