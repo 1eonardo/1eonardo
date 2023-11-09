@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td colspan="2" align="left">
-      <img src="https://github.com/1eonardo/1eonardo/blob/main/Skill2.png" width="300" height="250" />
+      <img src="https://github.com/1eonardo/1eonardo/blob/main/Skill3.png" width="300" height="180" />
     </td>
   </tr>
 </table>
